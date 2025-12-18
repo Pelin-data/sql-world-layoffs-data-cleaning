@@ -24,3 +24,5 @@ Raw Data → Staging → Staging2 → Cleaned Dataset
 ## 🚀 Outcome
 The dataset was cleaned and prepared for exploratory data analysis (EDA).
 
+Note: Due to MySQL limitations, duplicate records were removed using a second staging table instead of deleting directly from a CTE.
+
