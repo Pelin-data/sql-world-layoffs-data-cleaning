@@ -1,6 +1,7 @@
 -- =====================================================
 -- WORLD LAYOFFS | SQL DATA CLEANING
 -- =====================================================
+-- This script cleans the World Layoffs dataset using a staging-based approach in MySQL.
 
 -- RAW DATA
 SELECT *
